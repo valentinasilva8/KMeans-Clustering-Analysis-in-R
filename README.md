@@ -1,4 +1,4 @@
-# KMeans-Clustering-Analysis-in-R
+# KMeans Clustering Analysis in R
 
 This repository contains the code, visualizations, and findings for a clustering lab assignment using the **KMeans** algorithm in **R**. The project walks through methods for determining the optimal number of clusters and visualizing model results across different `k` values.
 
