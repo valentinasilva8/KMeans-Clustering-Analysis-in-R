@@ -60,7 +60,6 @@ Generated visualizations using `fviz_cluster()` for each clustering model:
 - **Gap Statistic Plot** – Showed gap statistic values across `k`.
 - **Cluster Comparison Plot** – Combined output using `fviz_cluster()` to visually compare models side-by-side.
 
-Plots are available in the [`visuals/`](./visuals) folder.
 
 ## ✅ Final Comparison & Interpretation
 
